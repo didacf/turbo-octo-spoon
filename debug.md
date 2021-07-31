@@ -2,7 +2,7 @@
 
 Duration: 15 minutes
 
-- Task 1: Enable Logging and Set Log Path
+- Task 1: Enable Logging and Set Log Path!!!
 
 ## Task 1: Enable Logging
 
